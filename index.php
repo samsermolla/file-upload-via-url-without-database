@@ -18,7 +18,7 @@ $name = $name.".".$ext;
 //get the file from the url using file_get_contents and put it into the folder using file_put_contents
 $upload = file_put_contents("upload/$name",file_get_contents($url));
 //check success
-if($upload)  echo "<img src='file/riͥϻsͣaͫϻ00..png' width='20%' height='30%' /> 🛏️🛏️<img src='upload/".$name."'><hr />download Here:<a href='upload/".$name."' target='_blank'>Check Uploaded</a>"; else "please check your folder permission<hr />";
+if($upload)  echo "<img src='file/rimsam00..png' width='20%' height='30%' /> 🛏️🛏️<img src='upload/".$name."'><hr />download Here:<a href='upload/".$name."' target='_blank'>Check Uploaded</a>"; else "please check your folder permission<hr />";
 }
 ?>
 
@@ -42,6 +42,6 @@ if($upload)  echo "<img src='file/riͥϻsͣaͫϻ00..png' width='20%' height='30%
 	<form action="" method="post">
 		Your URL: <input type="text" name="url" />
 	</form><hr />
-<marquee><img src="file/riͥϻsͣaͫϻ00.png" alt="riͥϻsͣaͫϻ00" width="25%" height="15%" /><br /></marquee>
+<marquee><img src="file/rimsam00.png" alt="riͥϻsͣaͫϻ00" width="25%" height="15%" /><br /></marquee>
 </body>
 </html>
