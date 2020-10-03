@@ -14,5 +14,5 @@ how to work this code <hr />
 8.<b>you browsing <u>upload</u> folder </b><br />
 9.<b>Now You see the Your File</b><br />
 <hr clo="2" style="color:#aaffff" />
-<marquee><img src="img/rimsam00.png" /></marquee>
+<img src="img/rimsam00.png" wegth="10%" height="15" />
 <hr clo="2" style="color:#aaffff" />
