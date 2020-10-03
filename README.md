@@ -3,7 +3,7 @@ Any help contact with me
 Email :<b> samsermolla@gmail.com </b>
 
 
-how to work this code 
+how to work this code <hr />
 1.<b>Download This Code</b> <br />
 2.<b>unzip The code</b><br />
 3.<b>Now open The <u>index.php</u> file </b><br />
