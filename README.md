@@ -16,4 +16,4 @@ how to work this code <hr />
 <hr clo="2" style="color:#aaffff" />
 <img src="file/rimsam00.png" width="10%" height="15%" /><img src="file/rimsam00.png" width="10%" height="15%" /><img src="file/rimsam00.png" width="10%" height="15%" />
 
-<hr clo="2" style="color:#aaffff" />
+<hr clo="10" style="color:#aaffff;background(url:file/rimsam00.png)" />
