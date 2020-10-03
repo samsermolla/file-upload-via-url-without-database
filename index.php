@@ -28,7 +28,6 @@ if($upload)  echo "<img src='file/rimsam.png' width='20%' height='30%' /> ğŸ›ï¸
 <meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="file/favicon.ico"/>
-<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
 </head>
 <body>
 <hr />
